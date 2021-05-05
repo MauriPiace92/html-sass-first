@@ -1,0 +1,17 @@
+.container {
+  margin: auto;
+  width: 50%;
+  background-color: lightblue;
+  text-align: center;
+  padding: 20px;
+}
+
+h1,
+h2,
+h3 {
+  color: lightcoral;
+}
+
+button {
+  color: lightcoral;
+}
